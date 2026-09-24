@@ -1,9 +1,10 @@
 # Demo Website
 
-A polished, responsive portfolio and services landing page for **Northstar Studio**, designed as a client-facing example of web design and front-end development skills.
+A polished, responsive portfolio and services landing page personalized for **Fishman Services**, designed as a client-facing example of web design and front-end development skills.
 
 ## Included
 
+- Fishman Services branding and supplied logo asset
 - Responsive layout for desktop, tablet, and mobile
 - Conversion-oriented hero, services, portfolio, process, and contact sections
 - Mobile navigation
